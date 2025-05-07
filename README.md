@@ -1,10 +1,10 @@
 # MHPC.LLM.Group.Project
-repository for MHPC course P2.11_Advanced_DL_24_25
+Repository for MHPC course P2.11_Advanced_DL_24_25 project.
 
 Authors:
 
 - Giacomo Zuccarino, giacomozuccarino@gmail.com
-- Jhon Sebastián Moreno Tri, jhonsmorenot@gmail.com
+- Jhon Sebastián Moreno Triana, jhonsmorenot@gmail.com
 
 
 # Colab urls
