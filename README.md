@@ -1,6 +1,11 @@
 # MHPC.LLM.Group.Project
 Repository for MHPC course P2.11_Advanced_DL_24_25 project.
 
+Professors:
+
+- Alberto Cazzaniga.
+- Cristiano De Nobili.
+
 Authors:
 
 - Giacomo Zuccarino, giacomozuccarino@gmail.com
@@ -8,13 +13,13 @@ Authors:
 
 # Description
 
-The course final project has been split into three notebooks.
+The course's final project has been split into three notebooks.
 - The main one performs model choice, pre training and fine tuning.
 - The benchmark one performs an assessment of the model accuracy using various benchmarks.
 - The frontend one provides a fronted application that runs the models and allows a user to input questions.
 
 Each notebook does not depend on the other two and can be run on its own.
-Each notebook displays extensive documentation for the work it performsn as well as instructions
+Each notebook displays extensive documentation for the work it performs as well as instructions
 on how to run it.
 All cells of each notebook are already provided with visible outputs to visually inspect them without having to run them.
 
